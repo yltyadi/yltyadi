@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Adi Yeltay, a 2nd-year student at Nazarbayev University. I'm currently interested in Backend Development and looking to get more experience in this field this summer! 
+
 <!--
 **yltyadi/yltyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
