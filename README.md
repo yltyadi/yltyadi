@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adi Yeltay, a 4th-year Computer Science student at Nazarbayev University. I'm currently interested in Backend Development (Python, Go) and looking for new opportunities in this field!
+My name is Adi Yeltay, an NLP student at MBZUAI. I'm currently looking for opportunities in this field!
 
 <!--
 **yltyadi/yltyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
