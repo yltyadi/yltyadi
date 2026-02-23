@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adi Yeltay, an NLP student at MBZUAI. I'm currently looking for opportunities in this field!
+My name is Adi Yeltay, an NLP Masters student at MBZUAI. I'm currently looking for AI/ML/NLP Engineering opportunities!
 
 <!--
 **yltyadi/yltyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
